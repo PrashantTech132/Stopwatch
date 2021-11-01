@@ -19,7 +19,7 @@ body {
     position: relative;
     width: 450px;
     height: 450px;
-    background: solid;
+    color: #ffffff;
     text-align: center;
     border-radius: 50%;
     box-shadow: 12px 12px 20px #00000033, inset 12px 12px 20px #ffffff0f;
@@ -54,6 +54,6 @@ body {
 }
 
 .container button:hover {
-    background: #fa4700;
+    background: #0066ff;
     color: #1d1c1c;
 }
