@@ -19,7 +19,8 @@ body {
     position: relative;
     width: 450px;
     height: 450px;
-    color: #ffffff;
+    background-image: url('https://free4kwallpapers.com/uploads/originals/2020/05/11/gradient-wallpaper.jpg'); background-image: no-repeat;
+
     text-align: center;
     border-radius: 50%;
     box-shadow: 12px 12px 200px #00000033, inset 12px 12px 200px #ffffff0f;
